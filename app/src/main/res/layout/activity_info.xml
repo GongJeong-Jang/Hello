@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:gravity="center"
-            android:text="병원소개"
+            android:text="병소"
             android:textColor="#FFFFFF"
             android:textSize="32dp"
             android:textStyle="bold" />
